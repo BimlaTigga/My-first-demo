@@ -1,4 +1,4 @@
 # My-first-demo
 This is my first repository.
 <br>
-Author - Bimla Tigga
+Author - Bimla Tigga (Student)
